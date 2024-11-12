@@ -70,23 +70,6 @@ Assista ao vídeo de desenvolvimento [aqui](https://youtu.be/dS7PiPDWwpY?si=ALZ4
    - 📧 Email: [engs-caioguarienti@camporeal.edu.br](mailto:engs-caioguarienti@camporeal.edu.br)  
    - GitHub: [github.com/CaioEduardoGemin](https://github.com/CaioEduardoGemin)
 
-## Contribuição
-Para contribuir com este projeto, siga os passos abaixo:
-1. Faça um fork do repositório.
-2. Crie uma branch para suas modificações:
-    ```bash
-    git checkout -b minha-nova-feature
-    ```
-3. Commit suas mudanças:
-    ```bash
-    git commit -m 'Adicionar nova feature'
-    ```
-4. Envie suas alterações:
-    ```bash
-    git push origin minha-nova-feature
-    ```
-5. Abra um Pull Request.
-
 ## Links
 - DIYODE: [https://diyodemag.com/projects/arduino_uno_servo-operated_ball_maze_marble_mayhem](https://diyodemag.com/projects/arduino_uno_servo-operated_ball_maze_marble_mayhem)
 - Documentação ESP32: ESPRESSIF [https://www.espressif.com/en](https://www.espressif.com/en)
