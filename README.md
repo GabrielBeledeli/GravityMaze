@@ -1,5 +1,5 @@
 # Projeto: Gravity Maze (Labirinto Gravitacional)
-![Logo do Projeto](path/to/logo.png)
+![Logo do Projeto](resources/logo.png)
 
 ## Justificativa
 Este projeto foi selecionado devido à busca por algo interativo, diferente, divertido e possível de ser realizado. Após pesquisar em diversos sites, encontramos o Gravity Maze, ou Labirinto Gravitacional, que atendeu a todos os nossos objetivos. Este jogo envolve um labirinto onde o jogador deve levar a esfera até o buraco certo, manipulando motores instalados na base com um controle de videogame, evitando obstáculos para alcançar o fim.
@@ -15,8 +15,8 @@ Assista ao vídeo de desenvolvimento [aqui](https://youtu.be/dS7PiPDWwpY?si=ALZ4
 
 ## Recursos
 - [Prototipagem](resources/Prototipagem.png)
-- [Esquema Elétrico](resources/Esquema Eletrico.png)
-- [Documentação](resources/Gravity Maze.pdf)
+- [Esquema Elétrico](resources/Esquema_Eletrico.png)
+- [Documentação](resources/Gravity_Maze.pdf)
 - [Modelo 3D (.stl)](resources/Labirinto3D.stl)
 
 ## Instalação
@@ -56,7 +56,7 @@ Para contribuir com este projeto, siga os passos abaixo:
 
 ## Referências
 - DIYODE: [https://diyodemag.com/projects/arduino_uno_servo-operated_ball_maze_marble_mayhem](https://diyodemag.com/projects/arduino_uno_servo-operated_ball_maze_marble_mayhem)
-- Documentação ESP32: [ESPRESSIF](https://www.espressif.com/en/products/socs/esp32).
+- Documentação ESP32: ESPRESSIF [https://www.espressif.com/en](https://www.espressif.com/en).
 - Bluepad32 para integração com controle Bluetooth: [Bluepad32 GitHub](https://github.com/ricardoquesada/bluepad32)
 - Modelo 3D e simulação: Tinkercad [https://www.tinkercad.com](https://www.tinkercad.com)
 - Software de esquemático: Fritzing [http://fritzing.org](http://fritzing.org)
