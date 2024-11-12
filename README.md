@@ -6,7 +6,7 @@ Este projeto foi selecionado devido à busca por algo interativo, diferente, div
 O projeto foi desenvolvido como parte das atividades acadêmicas no curso de **Engenharia de Software**, no **Centro Universitário Campo Real**, com o objetivo de aplicar os conhecimentos adquiridos ao longo do curso e desenvolver habilidades práticas em eletrônica, programação e design de sistemas.
 
 ## Descrição
-Iniciamos o projeto discutindo e pesquisando sobre como realizá-lo, quais componentes seriam necessários, orçamento e tempo de conclusão. Optamos por utilizar o microcontrolador ESP32, um controle conectado via Bluetooth, servomotores, uma tela LCD, sensor piezoelétrico, um botão, resistores de 220 ohms, alguns LEDs, um buzzer e uma fonte de alimentação de 6V e 3A. Organizamos nosso tempo com o Trello e elaboramos um cronograma, utilizando o Fritzing para o esquema elétrico e o Tinkercad para o modelo 3D da estrutura.
+Iniciamos o projeto discutindo e pesquisando sobre como realizá-lo, quais componentes seriam necessários, orçamento e tempo de conclusão. Optamos por utilizar o microcontrolador ESP32, um controle conectado via Bluetooth, servomotores, uma tela LCD, sensor piezoelétrico, um botão, resistores de 220 ohms, alguns LEDs, um buzzer e uma fonte de alimentação de 6V e 3A. Organizamos nosso tempo com o Trello e elaboramos um cronograma, utilizando o Fritzing para o esquema elétrico e o Tinkercad para o modelo 3D da estrutura. Para a estrutura do projeto, decidimos utilizar uma chapa de ACM, uma de PVC, cantoneiras para fazer as quinas e cantos, cola instantânea, parafusos, grampos e rebites. Utilizamos também o software [SketchUp](https://www.sketchup.com/) para o construir o modelo em 3D da estrutura.
 
 ## Viabilidade e Proposta Inovadora
 O jogo visa desenvolver habilidades lógicas, de coordenação e planejamento, podendo ser jogado por qualquer idade. Ele pode ser implementado em escolas, hospitais e para treinamentos, oferecendo benefícios cognitivos e motoras. O produto final foi avaliado em R$ 380,00, sendo um investimento aceitável para um dispositivo multifuncional.
@@ -19,7 +19,8 @@ Assista ao vídeo de desenvolvimento [aqui](https://youtu.be/dS7PiPDWwpY?si=ALZ4
 - [Esquema Elétrico](resources/Esquema_Eletrico.png)
 - [Documentação](resources/Gravity_Maze.pdf)
 - [Modelo 3D (.stl)](resources/Labirinto3D.stl)
-
+- [Estrutura (.stl)](resources/GravityMazeEstrutura.stl)
+  
 ## Instalação
 
 ### Configuração do Ambiente e IDE
@@ -96,3 +97,4 @@ Para contribuir com este projeto, siga os passos abaixo:
 
 ## Créditos
 Este projeto foi desenvolvido durante o curso de **Engenharia de Software** no **Centro Universitário Campo Real**. Agradecemos o apoio dos professores e colegas, e que contribuíram para o desenvolvimento e sucesso deste projeto.
+![IMAGEM](resources/imagem.jpeg)
