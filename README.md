@@ -92,4 +92,3 @@ Para contribuir com este projeto, siga os passos abaixo:
 - Modelo 3D e simulação: Tinkercad [https://www.tinkercad.com](https://www.tinkercad.com)
 - Software de esquemático: Fritzing [http://fritzing.org](http://fritzing.org)
 - IDE Arduino: [https://www.arduino.cc/en/software](https://www.arduino.cc/en/software)
-"""
