@@ -1,7 +1,7 @@
 # Gravity Maze (Labirinto Gravitacional)
 ![Logo do Projeto](resources/logo.png)
 
-## Justificativa
+## Sobre
 Este projeto foi selecionado devido à busca por algo interativo, diferente, divertido e possível de ser realizado. Após pesquisar em diversos sites, encontramos o Gravity Maze, ou Labirinto Gravitacional, que atendeu a todos os nossos objetivos. Este jogo envolve um labirinto onde o jogador deve levar a esfera até o buraco certo, manipulando motores instalados na base com um controle de videogame, evitando obstáculos para alcançar o fim.
 
 ## Descrição
