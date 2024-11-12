@@ -56,9 +56,17 @@ Assista ao vídeo de desenvolvimento [aqui](https://youtu.be/dS7PiPDWwpY?si=ALZ4
 3. Manipule os motores para guiar a bola pelo labirinto.
 
 ## Contatos
-- engs-gabrielhul@camporeal.edu.br
-- engs-alissonsilva@camporeal.edu.br
-- engs-caioguarienti@camporeal.edu.br
+- **Gabriel Hul**  
+   - 📧 Email: [engs-gabrielhul@camporeal.edu.br](mailto:engs-gabrielhul@camporeal.edu.br)  
+   - GitHub: [github.com/gabrielhul](https://github.com/GabrielBeledeli)
+
+- **Alisson Silva**  
+   - 📧 Email: [engs-alissonsilva@camporeal.edu.br](mailto:engs-alissonsilva@camporeal.edu.br)  
+   - GitHub: [github.com/alissonsilva](https://github.com/AlissonnSilva)
+
+- **Caio Guarienti**  
+   - 📧 Email: [engs-caioguarienti@camporeal.edu.br](mailto:engs-caioguarienti@camporeal.edu.br)  
+   - GitHub: [github.com/caioguarienti](https://github.com/CaioEduardoGemin)
 
 ## Contribuição
 Para contribuir com este projeto, siga os passos abaixo:
