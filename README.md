@@ -3,6 +3,7 @@
 
 ## Sobre
 Este projeto foi selecionado devido à busca por algo interativo, diferente, divertido e possível de ser realizado. Após pesquisar em diversos sites, encontramos o Gravity Maze, ou Labirinto Gravitacional, que atendeu a todos os nossos objetivos. Este jogo envolve um labirinto onde o jogador deve levar a esfera até o buraco certo, manipulando motores instalados na base com um controle de videogame, evitando obstáculos para alcançar o fim.
+O projeto foi desenvolvido como parte das atividades acadêmicas no curso de **Engenharia de Software**, no **Centro Universitário Campo Real**, com o objetivo de aplicar os conhecimentos adquiridos ao longo do curso e desenvolver habilidades práticas em eletrônica, programação e design de sistemas.
 
 ## Descrição
 Iniciamos o projeto discutindo e pesquisando sobre como realizá-lo, quais componentes seriam necessários, orçamento e tempo de conclusão. Optamos por utilizar o microcontrolador ESP32, um controle conectado via Bluetooth, servomotores, uma tela LCD, sensor piezoelétrico, um botão, resistores de 220 ohms, alguns LEDs, um buzzer e uma fonte de alimentação de 6V e 3A. Organizamos nosso tempo com o Trello e elaboramos um cronograma, utilizando o Fritzing para o esquema elétrico e o Tinkercad para o modelo 3D da estrutura.
@@ -92,3 +93,6 @@ Para contribuir com este projeto, siga os passos abaixo:
 - Modelo 3D e simulação: Tinkercad [https://www.tinkercad.com](https://www.tinkercad.com)
 - Software de esquemático: Fritzing [http://fritzing.org](http://fritzing.org)
 - IDE Arduino: [https://www.arduino.cc/en/software](https://www.arduino.cc/en/software)
+
+## Créditos
+Este projeto foi desenvolvido durante o curso de **Engenharia de Software** no **Centro Universitário Campo Real**. Agradecemos o apoio dos professores e colegas, e que contribuíram para o desenvolvimento e sucesso deste projeto.
