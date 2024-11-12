@@ -56,7 +56,7 @@ Para contribuir com este projeto, siga os passos abaixo:
 
 ## Referências
 - DIYODE: [https://diyodemag.com/projects/arduino_uno_servo-operated_ball_maze_marble_mayhem](https://diyodemag.com/projects/arduino_uno_servo-operated_ball_maze_marble_mayhem)
-- Documentação ESP32: [https://docs.espressif.com](https://docs.espressif.com)
+- Documentação ESP32: [ESPRESSIF](https://www.espressif.com/en/products/socs/esp32).
 - Bluepad32 para integração com controle Bluetooth: [Bluepad32 GitHub](https://github.com/ricardoquesada/bluepad32)
 - Modelo 3D e simulação: Tinkercad [https://www.tinkercad.com](https://www.tinkercad.com)
 - Software de esquemático: Fritzing [http://fritzing.org](http://fritzing.org)
