@@ -60,15 +60,15 @@ Assista ao vídeo de desenvolvimento [aqui](https://youtu.be/dS7PiPDWwpY?si=ALZ4
 ## Contatos
 - **Gabriel Beledeli Hul**  
    - 📧 Email: [engs-gabrielhul@camporeal.edu.br](mailto:engs-gabrielhul@camporeal.edu.br)  
-   - GitHub: [github.com/gabrielhul](https://github.com/GabrielBeledeli)
+   - GitHub: [github.com/GabrielBeledeli](https://github.com/GabrielBeledeli)
 
 - **Alisson Eraldo da Silva** 
    - 📧 Email: [engs-alissonsilva@camporeal.edu.br](mailto:engs-alissonsilva@camporeal.edu.br)  
-   - GitHub: [github.com/alissonsilva](https://github.com/AlissonnSilva)
+   - GitHub: [github.com/AlissonnSilva](https://github.com/AlissonnSilva)
 
 - **Caio Eduardo Gemim Guarienti**  
    - 📧 Email: [engs-caioguarienti@camporeal.edu.br](mailto:engs-caioguarienti@camporeal.edu.br)  
-   - GitHub: [github.com/caioguarienti](https://github.com/CaioEduardoGemin)
+   - GitHub: [github.com/CaioEduardoGemin](https://github.com/CaioEduardoGemin)
 
 ## Contribuição
 Para contribuir com este projeto, siga os passos abaixo:
@@ -87,14 +87,16 @@ Para contribuir com este projeto, siga os passos abaixo:
     ```
 5. Abra um Pull Request.
 
-## Referências
+## Links
 - DIYODE: [https://diyodemag.com/projects/arduino_uno_servo-operated_ball_maze_marble_mayhem](https://diyodemag.com/projects/arduino_uno_servo-operated_ball_maze_marble_mayhem)
 - Documentação ESP32: ESPRESSIF [https://www.espressif.com/en](https://www.espressif.com/en)
 - Bluepad32 para integração com controle Bluetooth: [Bluepad32 GitHub](https://github.com/ricardoquesada/bluepad32)
 - Modelo 3D e simulação: Tinkercad [https://www.tinkercad.com](https://www.tinkercad.com)
 - Software de esquemático: Fritzing [http://fritzing.org](http://fritzing.org)
 - IDE Arduino: [https://www.arduino.cc/en/software](https://www.arduino.cc/en/software)
+- Desenvolvimento estrutural pelo SketchUp: [SketchUp](https://www.sketchup.com/)
 
 ## Créditos
 Este projeto foi desenvolvido durante o curso de **Engenharia de Software** no **Centro Universitário Campo Real**. Agradecemos o apoio dos professores e colegas, e que contribuíram para o desenvolvimento e sucesso deste projeto.
+
 ![IMAGEM](resources/imagem.jpeg)
